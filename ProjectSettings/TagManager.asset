@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
   - Shot
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -40,11 +40,8 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BACKGROUND
-    uniqueID: 2661562179
-    locked: 0
-  - name: chao
-    uniqueID: 832721909
+  - name: Background
+    uniqueID: 52926589
     locked: 0
   - name: Default
     uniqueID: 0
