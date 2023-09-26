@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class open_box : MonoBehaviour
+public class Box : MonoBehaviour
 {
     bool haveGun = false;
     bool boxClean = true;
